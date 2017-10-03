@@ -1,0 +1,17 @@
+# Requirements
+Python 3
+Virtualenv voor python 3
+pip (zit in python3 als het goed is)
+
+Dit project maakt gebruik van virtualenv. Dit encapsuleert python dependencies in een map (dus voor ieder project onafhankelijke dependencies)
+
+# installatie
+source bin/activate
+pip install -r requirements
+
+# Scripts
+nb.py is het standaard projectje waar ik mee begonnen ben
+nb-kfold.py is het standaard project + kfold
+nb-confusion.py is het meest uitgebreid met confusion matrix en comments.
+
+
